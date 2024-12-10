@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jstrocel/heyguys-bot/issues"
   },
-  "homepage": "https://github.com/jstrocel/heyguys-bot#readme"
+  "homepage": "https://github.com/jstrocel/heyguys-bot#readme",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
 }
